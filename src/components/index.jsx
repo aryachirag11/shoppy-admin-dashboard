@@ -9,6 +9,7 @@ export { default as Notifications } from "./Notifications";
 export { default as UserProfile } from "./UserProfile";
 export { default as SparkLineChart } from "./Charts/SparkLineChart";
 export { default as AreaChart } from "./Charts/AreaChart";
+export { default as PieChart } from "./Charts/PieChart";
 export { default as LineChart } from "./Charts/LineChart";
 export { default as StackedChart } from "./Charts/StackedChart";
 export { default as ChartsHeader } from "./ChartsHeader";
